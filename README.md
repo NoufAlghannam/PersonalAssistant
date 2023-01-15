@@ -1,4 +1,3 @@
-# PersonalAssistant
 
 # Challenge Statement
 An App that provides a way for people who wants to save and manage tasks by providing a personal assistant.
